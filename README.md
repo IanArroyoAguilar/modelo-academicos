@@ -1,0 +1,1 @@
+En este repositorio se muestra una recopilación de los códigos de Python desarrollados como parte del proyecto de tesis "Modelo de Permanencia del Personal Académico, su solución y estimación de Parámetros". Autor: Ian Arroyo Aguilar Tutor: Dr. Isidro A. Abelló Ugalde
